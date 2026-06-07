@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-07",
+  "cafes": [
+    {
+      "rank": 1,
+      "keyword": "로스터현의 추천 카페",
+      "name": "1985커피 동탄점",
+      "address": "경기 화성시 동탄구 동탄순환대로14길 82-13 1층",
+      "description": "다양한 블렌드 커피와, 콜드브루, 드립백 커피가 맛있는 커피 전문 카페입니다.",
+      "thumbnailUrl": "",
+      "imageUrls": [],
+      "blogUrl": "https://blog.naver.com/roaster_hyun"
+    }
+  ]
+}
