@@ -28,6 +28,20 @@
       "blogUrl": "https://blog.naver.com/roaster_hyun",
       "partnerType": "PARTNER",
       "partnerLabel": "제휴"
+    },
+
+    {
+      "rank": 3,
+      "region": "경기도",
+      "keyword": "로스터현의 추천 카페",
+      "name": "카페 서정",
+      "address": "경기도 평택시 서두물로35번길 49",
+      "description": "하우스 드립 블렌드를 통해 융드립 커피를 맛 볼 수 있는 카페입니다.",
+      "thumbnailUrl": "",
+      "imageUrls": [],
+      "blogUrl": "https://blog.naver.com/roaster_hyun",
+      "partnerType": "PARTNER",
+      "partnerLabel": "제휴"
     }
     
   ]
