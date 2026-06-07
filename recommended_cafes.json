@@ -42,6 +42,20 @@
       "blogUrl": "https://blog.naver.com/roaster_hyun",
       "partnerType": "PARTNER",
       "partnerLabel": "제휴"
+    },
+
+        {
+      "rank": 4,
+      "region": "경기도",
+      "keyword": "로스터현의 추천 카페",
+      "name": "메릴리",
+      "address": "경기도 수원시 영통구 권선로882번길 71-5 102호",
+      "description": "대중적인 데일리 커피와 수제 케이크를 먹어 볼 수 있는 디저트 카페입니다.",
+      "thumbnailUrl": "",
+      "imageUrls": [],
+      "blogUrl": "https://blog.naver.com/roaster_hyun",
+      "partnerType": "PARTNER",
+      "partnerLabel": "제휴"
     }
     
   ]
