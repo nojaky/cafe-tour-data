@@ -14,6 +14,21 @@
       "blogUrl": "https://blog.naver.com/roaster_hyun",
       "partnerType": "PARTNER",
       "partnerLabel": "제휴"
-    }
+    },
+
+        {
+      "rank": 2,
+      "region": "경기도",
+      "keyword": "로스터현의 추천 카페",
+      "name": "1985커피 평택 안중점",
+      "address": "경기 평택시 안중읍 안현로서8길 57 붐붐프라자 105호",
+      "description": "다양한 블렌드 커피와, 수제 크림 도넛을 맛볼 수 있는 디저트 특화 카페입니다.",
+      "thumbnailUrl": "",
+      "imageUrls": [],
+      "blogUrl": "https://blog.naver.com/roaster_hyun",
+      "partnerType": "PARTNER",
+      "partnerLabel": "제휴"
+    },
+    
   ]
 }
